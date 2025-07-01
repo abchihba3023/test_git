@@ -3,7 +3,7 @@ table {
 }
 td, th{
     text-align: left;
-    border: 1px solid black ;
+    border: 1px solid
 }
 tbody tr:hover{
     background-color: #d3d3d3;
